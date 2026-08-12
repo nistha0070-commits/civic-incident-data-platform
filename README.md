@@ -1,5 +1,5 @@
 # civic-incident-data-platform
-# Civic Incident Data Platform
+
 
 This project was developed for BUS5001 – Cloud Platforms and Analytics.
 
